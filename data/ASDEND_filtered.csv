@@ -1,0 +1,132 @@
+line_num,id,sentence,speaker,topic
+0,0,我刚刚开始record,1,persona
+3,3,我非常希望能够通过这个机会去跟你make friends,1,persona
+5,5,我们平时能够遇见其他stranger的机会其实不是很多,1,persona
+10,10,我不太确定你家是不是也是来自一个similar city,1,persona
+13,13,我的hobby是读书,1,persona
+15,15,and我也很喜欢outdoor那些运动,1,persona
+38,38,i like武侠小小说超级喜欢,2,persona
+47,47,我也很喜欢reading books,1,persona
+52,52,because其实金庸他相对来说比较old,1,persona
+98,98,because i was already被这本书吸引,2,persona
+107,107,usually I want to read some books before期末考试,2,persona
+109,109,快要期末考试了他可能觉得非常stress非常nervous,2,persona
+110,110,他想要找一些东西来relax,2,persona
+119,119,我只是比较的curious about it,1,persona
+130,130,虽然这听起来很非常的没意思totally impossible,2,persona
+170,170,这电影真的非常的appealing,1,persona
+174,174,我觉得很sweet,1,persona
+180,180,I also really like the 女主,1,persona
+221,221,就已经先规划好他的teaching plan,21,education
+222,222,他要delivery什么东西,21,education
+223,223,他就已经制定出他的一个schedule,21,education
+253,253,因为实际上如果你不想做research,1,education
+254,254,因为国内其实很多university它有那种跟企业的合作,1,education
+263,263,这个实际上对research是不利的,1,education
+266,266,如果你真的有那种research pursuit,1,education
+280,280,你没有发很多paper就让你毕业,1,education
+286,286,其实我几个月前有考虑过要不要读phd,21,education
+287,287,然后我就跟career center的老师聊过,21,education
+289,289,直接ma申phd其实难度会比较大,21,education
+293,293,而且就是感觉phd真的比较适合就是对research很有passion的人,21,education
+296,296,就是可能我读phd只是为了去得到这个degree,21,education
+298,298,所以就感觉可能并没有太适合读phd,21,education
+299,299,而且就很担心读一个degree出来要四五年,21,education
+308,308,他的supervision实际上是很有限的,1,education
+309,309,主要是你自己的self motivation一定要强,1,education
+315,315,可能会下午discuss一下,1,education
+324,324,就是no one assign you to do something,1,education
+343,343,这个学期我们就是三节课然后再加一个research project,21,education
+344,344,然后就最近一直在做research project,21,education
+345,345,有大概有feel到一点那种感觉,21,education
+346,346,你要找到一个合适的topic去写,21,education
+349,349,所以感觉是真的要很academic的人才能够hold住,21,education
+362,362,我的lecturer就跟我讲说,1,education
+364,364,他是学了linguistic的,1,education
+381,381,你要把一个很虚的concept变成一个很实的一个paper,21,education
+392,392,computer science整体上节奏比较快,1,education
+398,398,你也可以感受到你真的在follow他的一些trade,1,education
+427,427,我还以为你们会有一个特殊的那种learning commerce,21,education
+434,434,就是那种study environment特别好,1,education
+435,435,我很喜欢这里的library,21,education
+458,458,然后如果是一群的话那就so noisy,21,education
+464,464,昨晚凌晨两点的时候就是我们take photos,21,education
+466,466,就感觉可能是真的是final到了,21,education
+467,467,那你们什么时候final结束啊,1,education
+482,482,你拿到你的certificate那时候你才是真的毕业了,21,education
+507,507,我肯定是需要smart phone的,26,technology
+548,548,他可能会indulge,26,technology
+573,573,就是我的sister会把他送到那个school去,9,technology
+575,575,most of time他们就是under watch的,9,technology
+582,582,他们这时候其实最需要的是去学习一些basic knowledge,9,technology
+587,587,他们也可以和classmates玩得比较high,26,technology
+600,600,那个时候家长能给得help已经非常非常limited的,9,technology
+602,602,家长还能够还能够回答一些或者能够offer 一些help,9,technology
+610,610,他们能够have access to那个一个非常非常huge的一个knowledge base,9,technology
+632,632,当你grow up的时候你知道的东西越来越多,9,technology
+646,646,怎么样去合理地play games,9,technology
+651,651,我们可以用games然后来motivate他们,9,technology
+654,654,他们可以用这些credit去play games,9,technology
+658,658,你可以把它作为你的goal,9,technology
+663,663,只要你obey my rule,9,technology
+672,672,主要还是应该teach them how to,9,technology
+679,679,找一个那个play和work的balance,9,technology
+680,680,如果only play games其实是非常boring的一件事情,9,technology
+681,681,但是only study也是一个非常boring的事情,9,technology
+683,683,这个他们还是能会比较love我们,9,technology
+685,685,一直告诉我说you cannot do this,9,technology
+686,686,但是我觉得我会很afraid of them,9,technology
+687,687,我很少把我的idea和他们进行交流,9,technology
+690,690,应该做一些change的,9,technology
+693,693,我觉得a ban all social media是一件非常非常stupid的一件事情,26,technology
+699,699,这是一件非常非常的easy去做的事情,9,technology
+709,709,应该让他们去有他们自己judgement,9,technology
+714,714,这并不能够solve the problem,9,technology
+738,738,we cannot接触这个社会的一些黑暗面,26,technology
+755,755,你的账户可能会被block掉,9,technology
+790,790,他们会有很多的common language,19,technology
+794,794,他们可以互相交流他们的这些experience,19,technology
+823,823,这些游戏其实也very interesting,19,technology
+847,847,我发现smartphone is not that beneficial,19,technology
+859,859,如果你update你会发现它最近也有这个function,19,technology
+864,864,给人们这样的一个alert,19,technology
+873,873,它只是给你一个reminder,19,technology
+918,918,做optimization的能力就是你怎样更有效的利用你现有的这种,19,technology
+921,921,make plan是非常有好处的,19,technology
+924,924,往往和人们的corporation就没有那么好,19,technology
+931,931,我现在已经fourth year了,9,persona
+932,932,我希望今年能graduate,9,persona
+947,947,我们来聊一些关于sports的话题,9,persona
+948,948,因为我对sports比较感兴趣,9,persona
+950,950,最近nba的playoff开打了,9,persona
+951,951,所以我我的favourite team是Houston Rocket,9,persona
+960,960,然后他的身体非常strong,9,persona
+993,993,因为lol一直是korean people dominant,9,persona
+1002,1002,当时我们晚上就是寝室就比较high,10,persona
+1011,1011,我觉得主要是我们非常busy,9,persona
+1015,1015,我们的partner他们也需要有work,9,persona
+1023,1023,当时我看那个live broadcast的时候,9,persona
+1040,1040,他们太stressful,9,persona
+1044,1044,没有达到我们expectation,9,persona
+1063,1063,那你就是之后做consulting的话是会在government下面吗,11,persona
+1064,1064,你们会去实地去取一些sample吗,11,persona
+1066,1066,我感觉像刚刚那种是比较偏management consulting,11,persona
+1069,1069,你觉得就是这个行业的那个pay rate大概怎么样,11,persona
+1092,1092,如果有一些就是local firm的话就会比较侧重会有粤语,11,persona
+1094,1094,它是commercial bank平时的target customer都会是那种local,11,persona
+1100,1100,它有很多不同的lesson然后有很多不同topic,11,persona
+1103,1103,真的给你一些非常practical的一些sentences,11,persona
+1142,1142,我在这边也没有做过intern,11,persona
+1207,1207,我觉得我应该还是会做product相关的,14,persona
+1239,1239,然后可能就prefer to stay in Shanghai,13,persona
+1322,1322,但是i also like watching korean drama,15,persona
+1382,1382,那个public transportation不是那么方便的,15,persona
+1385,1385,我一年大概回韩国two to three times,15,persona
+1418,1418,所以你们班上会有很多其他的foreigner,16,persona
+1436,1436,我以后是想做关于marketing的工作,15,persona
+1439,1439,能不能说marketing是too soft skill,15,persona
+1441,1441,他们建议我我有一个hard skill,15,persona
+1454,1454,四年大学就enough,15,persona
+1472,1472,所以i have to do this,16,persona
+1496,1496,我们大部分同学还是比较prefer在香港先找一份工作,16,persona
+1499,1499,那你有ideal company吗,15,persona

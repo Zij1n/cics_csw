@@ -19,10 +19,10 @@ This dictionary structure stores the results of processing sentences for code-sw
 3. **`llama_preference`**:  
    - **Type**: `int`  
    - **Description**: The choice made by the Llama model comparing the naturalness of the original and transformed sentences.  
-   - **Values**:  
-     - `1`: Indicates the original sentence is preferred.  
-     - `2`: Indicates the transformed sentence is preferred.
-
+   - **Values**:
+     - `1`: Indicates the transformed sentence is preferred.
+     - `2`: Indicates the original sentence is preferred.  
+     
 4. **`original_word_nll`**:  
    - **Type**: `list of tuples` or `str`  
    - **Description**: A list of tuples, where each tuple contains a word from the original sentence and its negative log-likelihood (NLL) as computed by the model.  

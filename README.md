@@ -1,9 +1,16 @@
+# Are multilingual LLMs like multilingual humans? Insights from code-switching  
+Xuanyi (Jessica) Chen, Zijin Hu, *New York University* 
+This repo contains code and datasets for CICS course project  
+
+
+
 ### Generating Dataset
 Run `python make_dataset.py --input_csv="path/to/input.csv" --output_csv="path/to/output.csv" --n_translations=5`  
-For example: `python make_dataset.py --input_csv="data/ASDEND_filtered.csv" --output_csv="processed_sentences.csv" --n_translations=5`
 
+### Running Stats
+See `stats.ipynb` for detail 
 
-### Data Columns
+<!-- ### Data Columns
 
 This dictionary structure stores the results of processing sentences for code-switching analysis, recording comparisons between original and transformed sentences along with associated metrics.
 
@@ -55,14 +62,7 @@ This dictionary structure stores the results of processing sentences for code-sw
 
 11. **`transformed_number_of_code_switch`**:  
     - **Type**: `int`  
-    - **Description**: The number of English words in the transformed sentence, representing the frequency of code-switching after the transformation.
+    - **Description**: The number of English words in the transformed sentence, representing the frequency of code-switching after the transformation. -->
 
----
 
-### Notes:
-This structure ensures comprehensive coverage of:
-- Sentence comparisons (`original`, `transformed`, `llama_preference`).
-- Linguistic metrics (`word_nll`, `token_nll`, `perplexity`).
-- Code-switching behavior (`original_number_of_code_switch`, `transformed_number_of_code_switch`).
 
-The fields are designed for use in analysis and evaluation of sentence transformations and code-switching patterns.

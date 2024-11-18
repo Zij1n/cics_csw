@@ -1,5 +1,5 @@
 # Are multilingual LLMs like multilingual humans? Insights from code-switching  
-Xuanyi (Jessica) Chen, Zijin Hu, *New York University* 
+Xuanyi (Jessica) Chen, Zijin Hu, *New York University*   
 This repo contains code and datasets for CICS course project  
 
 
